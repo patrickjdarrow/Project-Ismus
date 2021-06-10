@@ -5,7 +5,7 @@ Open source robotics -- hardware, software, and 3D design -- for controls educat
 
 - 2021
   - Early
-    - Finish 3D designs for 1-2 projects
+    - [x] Finish 3D designs for 1-2 projects
   - Mid
     - Begin demo code for 1-2 projects
   - Late
