@@ -1,6 +1,11 @@
 # Project-Ismus
 Open source robotics -- hardware, software, and 3D design -- for controls education. Developed and maintained by members of the [East Bay ML Meetup](https://www.meetup.com/East-Bay-Tri-Valley-Machine-Learning-Meetup/).
 
+- **Key Values**
+  - *Informative*: to complement the education process and feed curiosity
+  - *Accesibility*: 3D-printable, with afforable electronic components
+  - *Modularity*: to encourage exploration and customization
+
 ## Project Roadmap
 
 - 2021
