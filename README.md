@@ -1,3 +1,6 @@
+# Update
+- My PC had an irrecoverable failure and all designs/backups were regrettably lost. The project is on indefinitely hold.
+
 # Project-Ismus
 Open source robotics -- hardware, software, and 3D design -- for controls education. Founded by myself, with gracious feedback from members of the [East Bay ML Meetup](https://www.meetup.com/East-Bay-Tri-Valley-Machine-Learning-Meetup/).
 
